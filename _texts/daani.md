@@ -7,9 +7,6 @@ publication-date: 2016
 ---
 
 ---
-## Daani
-*(c) J. Singh 2016*
-
 It was in the summer after my 30th birthday that I decided to sign up as an organ donor. I had watched a documentary on organ transplants and realized the dire need for viable, healthy organs. There were so many people who were suffering and who needed an organ transplant just to survive. And the waiting list was so long. Over a hundred days for hearts and lungs. Almost a year for a liver and pancreas. Six months for intestines. And three and a half years for a kidney. The numbers were staggering.Most people suffering from serious conditions might already be dead by the time the donor organ became available for them.
 
 Compelled by a sense of compassion and a desire to help others, I signed up to donate my organs, eyes, and tissues. It might enhance or save someone's life after I passed away. After all, I wouldn't be needing my physical body after I had died. And I was in an excellent state of health. It would be a shame to waste such excellent organs.
@@ -57,4 +54,6 @@ At least, it felt like fire. It was hot, burning hot.It took me a long while –
 Suspended upside down in the fires of the womb, I began to meditate and pray.
 
 //
+
+*(c) J. Singh 2016*
 
