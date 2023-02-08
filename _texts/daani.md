@@ -49,7 +49,7 @@ I saw this little newborn baby crying as the nurses wiped him off, measured him,
 
 At the end of this review, I witnessed my own accident and death in the car crash.And like the scales of justice, I saw all the merits and demerits of my life added up. The account was not in my favor. There was a temporary pang of regret. But just as I was thinking of starting to beg for forgiveness, I was pulled by that same powerful force and thrust into fire.
 
-At least, it felt like fire. It was hot, burning hot.It took me a long while – days, weeks maybe? – to get accustomed to it, but I finally managed to sense my surroundings. It was dark, claustrophobic, hot, and noisy. It felt like I was in a sort of cramped, underwater chamber inside a furnace. There were sounds of liquid gushing, a regular rhythmic ebb and flow, and a pulsing, throbbing sound. Dub-dub Dub-dub Dub-dub. It finally dawned on me that I was inside a uterus.
+At least, it felt like fire. It was hot, burning hot.It took me a long while – days, weeks maybe? – to get accustomed to it, but I finally managed to sense my surroundings. It was dark, claustrophobic, hot, and noisy. It felt like I was in a sort of cramped, underwater chamber inside a furnace. There were sounds of liquid gushing, a regular rhythmic ebb and flow, and a pulsing, throbbing sound. *Dub-dub Dub-dub Dub-dub*. It finally dawned on me that I was inside a uterus.
 
 Suspended upside down in the fires of the womb, I began to meditate and pray.
 
