@@ -15,9 +15,10 @@ Sikhs in the diaspora are on the world stage. As such, they are ideally situated
 the discourse that is required for the world to learn about this unique and wonderful way of
 life that they follow, the way of the Warrior Saint.
 
-*VaheguruJiKaKhalsa|VaheguruJiKiFateh||*
+*VaheguruJiKaKhalsa, VaheguruJiKiFateh!*
 
 ## Social Media
 
 [twitter](https://www.twitter.com/jsinghbooks)
+
 [instagram](https://www.instagram.com/jsinghbooks)
