@@ -1,0 +1,27 @@
+---
+layout: default
+title: "Fiction"
+---
+<div class="introduction">
+  <h1>Fiction</h1>
+
+<p>
+  Works of Fiction
+</p>
+</div>
+
+<hr>
+
+<div class="toc">
+  <h2>Stories</h2>
+  <ul class="texts">
+  {% for item in site.texts %}
+
+    <li class="text-title">
+      <a href="{{ site.baseurl }}{{ item.url }}">
+        {{ item.title }}
+      </a>
+    </li>
+  {% endfor %}
+  </ul>
+</div>
