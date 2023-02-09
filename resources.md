@@ -14,7 +14,7 @@ author: J. Singh
 
 ## Introduction To Sikhi
 
-- [The Why Guru Course] (https://youtu.be/2vgz15G1oHI)
+- [The Why Guru Course](https://youtu.be/2vgz15G1oHI)
 
 ---
 
